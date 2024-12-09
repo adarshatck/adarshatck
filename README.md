@@ -1,72 +1,49 @@
-# adarshatck - React.js Developer
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-**💫 About Me**
+###
 
-I am a passionate React.js developer with a strong drive to expand my skillset and explore the ever-evolving landscape of web technologies.  I thrive in collaborative and innovative team environments, embracing challenging projects that push my boundaries and foster continuous growth.  I'm a firm believer in teamwork and the power of collaborative problem-solving.
-
-
-**🚀 My Expertise**
-
-I possess a diverse skillset enabling me to build robust, scalable, and high-performing web applications. My expertise encompasses a range of technologies, allowing me to contribute effectively to various stages of the development lifecycle.
-
-
-**🛠 Skills & Technologies**
-
-| Category             | Skills                                                                                                         |
-|----------------------|-----------------------------------------------------------------------------------------------------------------|
-| **Programming Languages** | JavaScript, TypeScript, Node.js  <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> <img width="12"
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###                                                 |
-| **Frontend Development** | React.js, Shopify, WordPress                                                                                      |
-| **Backend Development**  | Express.js                                                                             |
-| **Databases**          | MongoDB, MySQL                                                              |
-| **Design**             | Figma                                                                                            |
-| **Tools**              | Git, Postman                                                                                            |
+###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-**🚀 Work Experience**
+###
 
-**React.js Developer - Coderkube Technologies**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-* Developed and maintained responsive web applications using React.js, adhering to best practices for code quality and maintainability.
-* Collaborated effectively with the backend development team to ensure seamless API integration and data flow.
-* Optimized application performance and loading times through various techniques, including code refactoring, efficient data fetching, and image optimization.
-* Actively participated in code reviews, providing constructive feedback and mentoring junior developers to foster their growth and development.
+###
 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-**🌱 Open to Work**
+###
 
-I am actively seeking new and challenging opportunities to leverage my skills and experience.  If you have a project or role that aligns with my expertise and interests, please don't hesitate to reach out!  I am particularly interested in [mention specific areas of interest, e.g.,  projects involving complex state management, performance optimization, or specific industries].
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-**Connect with Me**
-
-* **Instagram:** [Your Instagram Link]
-* **Discord:** [Your Discord Link]
-* **Gmail:** [Your Gmail Link]
-* **LinkedIn:** [Your LinkedIn Link]
-* **Facebook:** [Your Facebook Link]
-* **StackOverflow:** [Your StackOverflow Link]
-* **Medium:** [Your Medium Link]
-* **Twitter:** [Your Twitter Link]
-* **Whatsapp:** [Your Whatsapp Link]
-* **Hugging Face:** [Your Hugging Face Link]
-
-
-**Contributing**
-
-This README is a living document.  Feel free to suggest improvements or additions by creating a pull request.
-
-
-**License**
-
-[Choose a license - e.g., MIT License]
+###
