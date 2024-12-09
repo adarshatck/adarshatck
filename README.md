@@ -46,6 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/adarshatck/adarshatck/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/adarshatck/snake.yml/output/snake.svg" alt="Snake animation" />
 
 ###
