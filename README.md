@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left"># adarshatck - React.js Developer</h2>
+
+###
+
+<h2 align="left">I am a passionate React.js developer with a strong drive to expand my skillset and explore the ever-evolving landscape of web technologies.  I thrive in collaborative and innovative team environments, embracing challenging projects that push my boundaries and foster continuous growth.  I'm a firm believer in teamwork and the power of collaborative problem-solving.</h2>
 
 ###
 
@@ -41,8 +45,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/adarshatck/adarshatck/output/snake.svg" alt="Snake animation" />
 
